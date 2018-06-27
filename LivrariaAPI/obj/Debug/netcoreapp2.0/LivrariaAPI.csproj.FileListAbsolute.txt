@@ -1,0 +1,11 @@
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\LivrariaAPI\bin\Debug\netcoreapp2.0\LivrariaAPI.deps.json
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\LivrariaAPI\bin\Debug\netcoreapp2.0\LivrariaAPI.runtimeconfig.json
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\LivrariaAPI\bin\Debug\netcoreapp2.0\LivrariaAPI.runtimeconfig.dev.json
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\LivrariaAPI\bin\Debug\netcoreapp2.0\LivrariaAPI.dll
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\LivrariaAPI\bin\Debug\netcoreapp2.0\LivrariaAPI.pdb
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\LivrariaAPI\obj\Debug\netcoreapp2.0\LivrariaAPI.csproj.CoreCompileInputs.cache
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\LivrariaAPI\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\LivrariaAPI\obj\Debug\netcoreapp2.0\LivrariaAPI.AssemblyInfoInputs.cache
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\LivrariaAPI\obj\Debug\netcoreapp2.0\LivrariaAPI.AssemblyInfo.cs
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\LivrariaAPI\obj\Debug\netcoreapp2.0\LivrariaAPI.dll
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\LivrariaAPI\obj\Debug\netcoreapp2.0\LivrariaAPI.pdb

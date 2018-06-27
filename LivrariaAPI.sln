@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LivrariaAPI", "LivrariaAPI\LivrariaAPI.csproj", "{2828DFEC-813E-4EC0-AB19-9B4F1AA118EC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F923CB3C-B4DE-4E4C-9B05-1A2FC186D447} = {F923CB3C-B4DE-4E4C-9B05-1A2FC186D447}
+		{A15C5181-0134-4672-A368-FC41524AA678} = {A15C5181-0134-4672-A368-FC41524AA678}
+		{66B36BFC-CE36-4A5A-B99C-4A3B6AA41368} = {66B36BFC-CE36-4A5A-B99C-4A3B6AA41368}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutenticacaoAPI", "AutenticacaoAPI\AutenticacaoAPI.csproj", "{F923CB3C-B4DE-4E4C-9B05-1A2FC186D447}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuditoriaAPI", "AuditoriaAPI\AuditoriaAPI.csproj", "{A15C5181-0134-4672-A368-FC41524AA678}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PagamentoAPI", "PagamentoAPI\PagamentoAPI.csproj", "{66B36BFC-CE36-4A5A-B99C-4A3B6AA41368}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2828DFEC-813E-4EC0-AB19-9B4F1AA118EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2828DFEC-813E-4EC0-AB19-9B4F1AA118EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2828DFEC-813E-4EC0-AB19-9B4F1AA118EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2828DFEC-813E-4EC0-AB19-9B4F1AA118EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F923CB3C-B4DE-4E4C-9B05-1A2FC186D447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F923CB3C-B4DE-4E4C-9B05-1A2FC186D447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F923CB3C-B4DE-4E4C-9B05-1A2FC186D447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F923CB3C-B4DE-4E4C-9B05-1A2FC186D447}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A15C5181-0134-4672-A368-FC41524AA678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A15C5181-0134-4672-A368-FC41524AA678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A15C5181-0134-4672-A368-FC41524AA678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A15C5181-0134-4672-A368-FC41524AA678}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66B36BFC-CE36-4A5A-B99C-4A3B6AA41368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66B36BFC-CE36-4A5A-B99C-4A3B6AA41368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66B36BFC-CE36-4A5A-B99C-4A3B6AA41368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66B36BFC-CE36-4A5A-B99C-4A3B6AA41368}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFA13E80-3176-4C47-B302-C22FDB8EE3AA}
+	EndGlobalSection
+EndGlobal

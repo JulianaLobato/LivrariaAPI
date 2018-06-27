@@ -1,0 +1,11 @@
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\AutenticacaoAPI\bin\Debug\netcoreapp2.0\AutenticacaoAPI.deps.json
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\AutenticacaoAPI\bin\Debug\netcoreapp2.0\AutenticacaoAPI.runtimeconfig.json
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\AutenticacaoAPI\bin\Debug\netcoreapp2.0\AutenticacaoAPI.runtimeconfig.dev.json
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\AutenticacaoAPI\bin\Debug\netcoreapp2.0\AutenticacaoAPI.dll
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\AutenticacaoAPI\bin\Debug\netcoreapp2.0\AutenticacaoAPI.pdb
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\AutenticacaoAPI\obj\Debug\netcoreapp2.0\AutenticacaoAPI.csprojResolveAssemblyReference.cache
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\AutenticacaoAPI\obj\Debug\netcoreapp2.0\AutenticacaoAPI.csproj.CoreCompileInputs.cache
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\AutenticacaoAPI\obj\Debug\netcoreapp2.0\AutenticacaoAPI.AssemblyInfoInputs.cache
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\AutenticacaoAPI\obj\Debug\netcoreapp2.0\AutenticacaoAPI.AssemblyInfo.cs
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\AutenticacaoAPI\obj\Debug\netcoreapp2.0\AutenticacaoAPI.dll
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\AutenticacaoAPI\obj\Debug\netcoreapp2.0\AutenticacaoAPI.pdb

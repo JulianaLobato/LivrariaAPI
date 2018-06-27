@@ -1,0 +1,11 @@
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\PagamentoAPI\bin\Debug\netcoreapp2.0\PagamentoAPI.deps.json
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\PagamentoAPI\bin\Debug\netcoreapp2.0\PagamentoAPI.runtimeconfig.json
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\PagamentoAPI\bin\Debug\netcoreapp2.0\PagamentoAPI.runtimeconfig.dev.json
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\PagamentoAPI\bin\Debug\netcoreapp2.0\PagamentoAPI.dll
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\PagamentoAPI\bin\Debug\netcoreapp2.0\PagamentoAPI.pdb
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\PagamentoAPI\obj\Debug\netcoreapp2.0\PagamentoAPI.csprojResolveAssemblyReference.cache
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\PagamentoAPI\obj\Debug\netcoreapp2.0\PagamentoAPI.csproj.CoreCompileInputs.cache
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\PagamentoAPI\obj\Debug\netcoreapp2.0\PagamentoAPI.AssemblyInfoInputs.cache
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\PagamentoAPI\obj\Debug\netcoreapp2.0\PagamentoAPI.AssemblyInfo.cs
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\PagamentoAPI\obj\Debug\netcoreapp2.0\PagamentoAPI.dll
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\PagamentoAPI\obj\Debug\netcoreapp2.0\PagamentoAPI.pdb

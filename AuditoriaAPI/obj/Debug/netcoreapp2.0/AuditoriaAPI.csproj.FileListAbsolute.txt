@@ -1,0 +1,10 @@
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\AuditoriaAPI\bin\Debug\netcoreapp2.0\AuditoriaAPI.deps.json
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\AuditoriaAPI\bin\Debug\netcoreapp2.0\AuditoriaAPI.runtimeconfig.json
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\AuditoriaAPI\bin\Debug\netcoreapp2.0\AuditoriaAPI.runtimeconfig.dev.json
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\AuditoriaAPI\bin\Debug\netcoreapp2.0\AuditoriaAPI.dll
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\AuditoriaAPI\bin\Debug\netcoreapp2.0\AuditoriaAPI.pdb
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\AuditoriaAPI\obj\Debug\netcoreapp2.0\AuditoriaAPI.csproj.CoreCompileInputs.cache
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\AuditoriaAPI\obj\Debug\netcoreapp2.0\AuditoriaAPI.AssemblyInfoInputs.cache
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\AuditoriaAPI\obj\Debug\netcoreapp2.0\AuditoriaAPI.AssemblyInfo.cs
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\AuditoriaAPI\obj\Debug\netcoreapp2.0\AuditoriaAPI.dll
+C:\Users\julia\Downloads\Projetos\LivrariaAPI\AuditoriaAPI\obj\Debug\netcoreapp2.0\AuditoriaAPI.pdb
