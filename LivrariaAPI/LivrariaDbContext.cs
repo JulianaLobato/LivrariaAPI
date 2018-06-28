@@ -16,6 +16,7 @@ namespace LivrariaAPI
         public DbSet<ComentarioModel> Comentario { get; set; }
         public DbSet<AutorModel> Autor { get; set; }
         public DbSet<CarrinhoModel> Carrinho { get; set; }
+        public DbSet<UsuarioModel> Usuario { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

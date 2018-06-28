@@ -9,7 +9,7 @@ namespace LivrariaAPI.Services
 {
     public class LivroService
     {
-        private ApplicationDbContext _db;
+        private LivrariaDbContext _db;
 
         public LivroService(ApplicationDbContext db)
         {

@@ -9,10 +9,12 @@ namespace AutenticacaoAPI.Models
     public class UsuariosModel
     {
         [Key]
-        public int CPF;
+        public int id;
         [Required]
         public string NomeUsuario;
         [Required]
         public string senha;
+        [Email]
+        public string email;
     }
 }
